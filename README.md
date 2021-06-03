@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilbertharriman
-- 👀 I’m interested in backend development and machine learning
-- 🌱 I’m currently learning the innerworking of database systems and data science
+- 👀 I’m interested in database engineering and machine learning
+- 🌱 I’m currently learning the innerworkings of database systems and data science
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me wilbert26harriman@gmail.com
 
