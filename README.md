@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning distributed database systems
 - 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me wilbert26harriman@gmail.com
-
+<!-- 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbertharriman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbertharriman&layout=compact) -->
 
 <!---
 wilbertharriman/wilbertharriman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
