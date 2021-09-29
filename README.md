@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me wilbert26harriman@gmail.com
 
-### Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbertharriman&layout=compact)
 
 <!---
