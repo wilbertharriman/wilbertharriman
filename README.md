@@ -2,8 +2,8 @@
 <a href="mailto:wilbert26harriman@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/wilbertharriman">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- 👀 I’m interested in database systems and machine learning
-- 🌱 I’m currently learning distributed database systems
+- 👀 I’m interested in Database Systems and Deep Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me wilbert26harriman@gmail.com
 
