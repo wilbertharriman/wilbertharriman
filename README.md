@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Database Systems
 - 🌱 I’m currently learning about Database Systems
-- 💞️ I’m looking to collaborate on database
+- 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me wilbert26harriman@gmail.com
 
 <!---
